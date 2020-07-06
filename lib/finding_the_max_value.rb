@@ -2,7 +2,7 @@ require 'pry'
 
 def find_max_value(array)
   count = 0
-  binding.pry
+  maximum_value
   while count < array.length do
     puts 
     count += 1
